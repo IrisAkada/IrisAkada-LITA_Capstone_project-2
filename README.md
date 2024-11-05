@@ -1,5 +1,3 @@
-# IrisAkada-LITA_Capstone_project-2
-
 # LITA_Capstone_Project_Documentation
 
 ### Project Title : CustomerData Analysis
