@@ -37,8 +37,10 @@ The Source of the data used here is CustomerData Sales.xlsx provided by The Incu
 
 ### Tools Used
 - Microsoft Excel [Download here](https://www.microsoft.com
- 1.For Data Analysis
- 2.For Data Visualization
+  
+  1.For Data Analysis
+  
+  2.For Data Visualization
  
 - Microsoft Power BI for DAX expressions and Data Visualization
 
@@ -50,7 +52,7 @@ In the initial phase of the Data cleaning and preparations, we perform the below
 ### Exploratory Data Analysis
  EDA involves the exploring of the Data to answer some questions about the data such as;
  - what is the total Number of sales for each Product
- - What is Monthly Sales total for the current year
+ - What is the Monthly Sales total for the current year
  - What is the top selling Product
  - What is the total Revenue for each product and regional breakdown?
 
