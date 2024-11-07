@@ -65,3 +65,27 @@ In the initial phase of the Data cleaning and preparations, we perform the below
 ![CustomerData 2](https://github.com/user-attachments/assets/8dde272c-fc41-49f1-acd7-0b19339d99e1)
 
 
+### CustomerData Report Dashboard.
+The exploratory Data analysis performed on this dataset using cards,charts, Table revealed the Total Revenue from the monthly subscription in two years is 150million, total sales value of 262million and total Number of 75,ooo,oo Customers in all the regions. The total number of subscription is 131,000,00 and the total number of cancelled subscription is 34,000.
+
+Breakdown of analysis revealed the active subscription types as follows: Basic, standard and premium.
+11.3% of customers in the north canceled their Standard subscription, 33.33% of customers canceled their premium subscription in the South and 33.33% canceled their Basic subscription in the west.
+
+Chart 2, revealed the total count of subscription by region.
+
+ 1.North 19,000,00 
+ 
+ 2.South 38,000,00
+ 
+ 3.East 19,000,00
+ 
+ 4.West 56,000,00
+ 
+
+Table 1 and 2 revealed the performance of the regions in year 2023 and 2024 subscriptionstart and subscriptionend.
+Year 2023 subscriptionstart generating sum total89,902,969 and 59,916717 in 2024.
+Table 2 revealed the sum total 89,902,969 as revenue in 2023 and 59,916,717 as revenue in year 2024.
+
+In summary the analysis revealed Basic subscription type as the most preferred subscription type with the total revenue of 75million , in regions the East had no subscription canceled.
+Further analysis revealed the North, South, West canceled their subscription with no renewal.                        
+
